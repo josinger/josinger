@@ -2,7 +2,7 @@
 
 Me llamo Joaquín Singer y soy estudiante de Ingeniería en Informática en la Universidad de Buenos Aires.
 
-Acá podes encontrar repositorios con material de algunas de las materias que cursé:
+Acá podés encontrar repositorios con material de algunas de las materias que cursé:
 
 [Teoría de Algoritmos I (75.29)](https://github.com/josinger/7529-TeoriaDeAlgoritmos)
 
