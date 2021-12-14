@@ -1,6 +1,6 @@
 ### Información personal
 
-Me llamo Joaquín Singer y soy estudiante de Ingeniería en Informática en la Universidad de Buenos Aires.
+Estudiante de Ingeniería en Informática en la Universidad de Buenos Aires.
 
 Acá podés encontrar repositorios con material de algunas de las materias que cursé:
 
